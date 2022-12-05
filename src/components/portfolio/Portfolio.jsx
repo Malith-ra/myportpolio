@@ -1,7 +1,7 @@
 import React from "react";
 import IMG1 from "../../assets/todoapp.jpg";
 import IMG2 from "../../assets/ecom.png";
-import IMG3 from "../../assets/shelter.png";
+import IMG3 from "../../assets/hotel.png";
 import IMG4 from "../../assets/event.png";
 import IMG5 from "../../assets/news.png";
 import IMG6 from "../../assets/math.png";
@@ -40,13 +40,13 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "Shelter",
+      title: "Hotel System for a Tourism",
       img: IMG3,
-      description:
-        "Fully responsive interactive website built based on Figma design",
-      technologies: "JavaScript | CSS",
-      link: "https://github.com/Malith-ra?tab=repositories",
-      github: "https://github.com/Malith-ra?tab=repositories",
+      description: "Add Hotels | Update Hotel Details | Remove Hotels",
+      technologies: "ReactJs | Node Js | MongoDB",
+      link: "https://github.com/Malith-ra/Mern-Stack-Online-Search-Hotels-System-for-a-Tourism-/blob/main/IT18097634/IT18097634.pdf",
+      github:
+        "https://github.com/Malith-ra/Mern-Stack-Online-Search-Hotels-System-for-a-Tourism-/blob/main/IT18097634/IT18097634.pdf",
     },
     {
       id: 5,
