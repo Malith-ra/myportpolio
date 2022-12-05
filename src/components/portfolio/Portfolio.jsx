@@ -2,7 +2,7 @@ import React from "react";
 import IMG1 from "../../assets/todoapp.jpg";
 import IMG2 from "../../assets/todo.png";
 import IMG3 from "../../assets/shelter.png";
-import IMG4 from "../../assets/fake.png";
+import IMG4 from "../../assets/event.png";
 import IMG5 from "../../assets/news.png";
 import IMG6 from "../../assets/math.png";
 
@@ -15,19 +15,19 @@ const Portfolio = () => {
       title: "React Todo Application",
       img: IMG1,
       description: "University Assignment Using React Js",
-      technologies: "Javascript",
+      technologies: "React Js | Bootstrap",
       link: "https://github.com/Malith-ra/React-Todo-application",
       github: "https://github.com/Malith-ra/React-Todo-application",
     },
     {
       id: 2,
-      title: "FakeStore",
+      title: "Event Organizer Application",
       img: IMG4,
-      description:
-        "FakeStore app that provides information about available products and their details",
+      description: "Add Events | Update Events | Remove Events | Show Events",
       technologies: "React | Redux",
-      link: "https://fakestore-metrics.netlify.app/",
-      github: "https://github.com/Malith-ra?tab=repositories",
+      link: "https://github.com/Online-Event-Organizer/AngularJS-web-application",
+      github:
+        "https://github.com/Online-Event-Organizer/AngularJS-web-application",
     },
     {
       id: 3,
