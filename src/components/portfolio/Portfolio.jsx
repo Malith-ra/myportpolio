@@ -3,7 +3,7 @@ import IMG1 from "../../assets/todoapp.jpg";
 import IMG2 from "../../assets/ecom.png";
 import IMG3 from "../../assets/hotel.png";
 import IMG4 from "../../assets/event.png";
-import IMG5 from "../../assets/news.png";
+import IMG5 from "../../assets/gennext.png";
 import IMG6 from "../../assets/math.png";
 
 import "./portfolio.css";
@@ -50,23 +50,22 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: "World News",
+      title: "Content Website",
       img: IMG5,
-      description:
-        "Fully responsive interactive website built based on Adobe XD design",
-      technologies: "JavaScript | CSS",
-      link: "https://github.com/Malith-ra?tab=repositories",
-      github: "https://github.com/Malith-ra?tab=repositories",
+      description: "Login system | Company Website",
+      technologies: ".NET",
+      link: "https://github.com/Malith-ra/Gennext-Login-System-ASP.NET",
+      github: "https://github.com/Malith-ra/Gennext-Login-System-ASP.NET",
     },
     {
       id: 6,
-      title: "Math Resource",
+      title: "Shop Application",
       img: IMG6,
-      description:
-        "Real-world group project which is still in progress and will provide educational platform for future young developers",
-      technologies: "JavaScript | Scss | Python",
-      link: "https://github.com/Malith-ra?tab=repositories",
-      github: "https://github.com/Malith-ra?tab=repositories",
+      description: "Online Shopping Application",
+      technologies: "ReactJs | NodeJs | MongoDB",
+      link: "https://github.com/Online-Cart-and-Fashion-Store/MEAN-STACK-Web-Application",
+      github:
+        "https://github.com/Online-Cart-and-Fashion-Store/MEAN-STACK-Web-Application",
     },
   ];
 
