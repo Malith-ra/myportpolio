@@ -24,7 +24,7 @@ const Portfolio = () => {
       title: "Event Organizer Application",
       img: IMG4,
       description: "Add Events | Update Events | Remove Events | Show Events",
-      technologies: "React | Redux",
+      technologies: "Javascript",
       link: "https://github.com/Online-Event-Organizer/AngularJS-web-application",
       github:
         "https://github.com/Online-Event-Organizer/AngularJS-web-application",
