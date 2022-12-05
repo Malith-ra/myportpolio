@@ -1,6 +1,6 @@
 import React from "react";
 import IMG1 from "../../assets/todoapp.jpg";
-import IMG2 from "../../assets/todo.png";
+import IMG2 from "../../assets/ecom.png";
 import IMG3 from "../../assets/shelter.png";
 import IMG4 from "../../assets/event.png";
 import IMG5 from "../../assets/news.png";
@@ -31,12 +31,12 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: "To-Do-App",
+      title: "React ECommerce Application",
       img: IMG2,
       description: "User friendly app to plan your day and manage tasks",
       technologies: "JavaScript | Webpack",
-      link: "https://meri-mg.github.io/To-Do-List/dist/",
-      github: "https://github.com/Malith-ra?tab=repositories",
+      link: "https://ecom-shop-react.netlify.app/",
+      github: "https://github.com/Malith-ra/ReactJs-ECom",
     },
     {
       id: 4,
