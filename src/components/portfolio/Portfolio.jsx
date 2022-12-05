@@ -12,9 +12,9 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Online Event Organizer",
+      title: "React Todo Application",
       img: IMG1,
-      description: "Event Management",
+      description: "University Assignment Using React Js",
       technologies: "Javascript",
       link: "https://github.com/Malith-ra/React-Todo-application",
       github: "https://github.com/Malith-ra/React-Todo-application",
