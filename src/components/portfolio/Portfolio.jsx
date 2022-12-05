@@ -1,5 +1,5 @@
 import React from "react";
-import IMG1 from "../../assets/bookstore.png";
+import IMG1 from "../../assets/todoapp.jpg";
 import IMG2 from "../../assets/todo.png";
 import IMG3 from "../../assets/shelter.png";
 import IMG4 from "../../assets/fake.png";
@@ -16,9 +16,8 @@ const Portfolio = () => {
       img: IMG1,
       description: "Event Management",
       technologies: "Javascript",
-      link: "https://github.com/Online-Event-Organizer/AngularJS-web-application",
-      github:
-        "https://github.com/Online-Event-Organizer/AngularJS-web-application",
+      link: "https://github.com/Malith-ra/React-Todo-application",
+      github: "https://github.com/Malith-ra/React-Todo-application",
     },
     {
       id: 2,
