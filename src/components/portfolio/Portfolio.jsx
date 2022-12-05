@@ -4,7 +4,7 @@ import IMG2 from "../../assets/ecom.png";
 import IMG3 from "../../assets/hotel.png";
 import IMG4 from "../../assets/event.png";
 import IMG5 from "../../assets/gennext.png";
-import IMG6 from "../../assets/math.png";
+import IMG6 from "../../assets/shop.png";
 
 import "./portfolio.css";
 
